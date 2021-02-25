@@ -3,9 +3,12 @@ Implementing infinte scroll for the first time
 
 I liked InfiniteScroll the most for using hooks. LogRocketBlog worked equally well, but ScrollComponent lags because each page is a call to the jsonplaceholder API for images.
 
+InfiniteImageScroll is a comprehensive functional component using hooks that lazy loads images properly with optimal performance. The code is far cleaner than the other tutorials (though with less of a write up imo).
+
 - LogRocketBlog: [https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd/](https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd/)
 - InfiniteScroll: [https://dev.to/hunterjsbit/react-infinite-scroll-in-few-lines-588f](https://dev.to/hunterjsbit/react-infinite-scroll-in-few-lines-588f)
 - ScrollComponent: [https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs](https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs)
+- InfiniteImageScroll: [https://www.smashingmagazine.com/2020/03/infinite-scroll-lazy-image-loading-react/](https://www.smashingmagazine.com/2020/03/infinite-scroll-lazy-image-loading-react/)
 
 # Getting Started with Create React App
 
