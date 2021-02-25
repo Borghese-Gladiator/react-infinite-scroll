@@ -1,5 +1,11 @@
 # React-Infinite-Scroll
-Implementing infinte scroll for the first time: [https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs](https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs)
+Implementing infinte scroll for the first time
+
+I liked InfiniteScroll the most for using hooks. LogRocketBlog worked equally well, but ScrollComponent lags because each page is a call to the jsonplaceholder API for images.
+
+- LogRocketBlog: [https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd/](https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd/)
+- InfiniteScroll: [https://dev.to/hunterjsbit/react-infinite-scroll-in-few-lines-588f](https://dev.to/hunterjsbit/react-infinite-scroll-in-few-lines-588f)
+- ScrollComponent: [https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs](https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs)
 
 # Getting Started with Create React App
 
