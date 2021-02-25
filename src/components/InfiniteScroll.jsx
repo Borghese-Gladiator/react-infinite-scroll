@@ -45,7 +45,7 @@ const InfiniteScroll = () => {
     setPostList({
       list: newList
     })
-  }, [page])
+  }, [postList, page])
 
   // here we handle what happens when user scrolls to Load More div
   // in this case we just update page variable

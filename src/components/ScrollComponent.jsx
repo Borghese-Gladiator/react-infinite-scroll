@@ -66,7 +66,7 @@ class ScrollComponent extends Component {
       <div className="container">
         <div style={{ minHeight: "800px" }}>
           {this.state.photos.map(user => (
-            <img src={user.url} height="100px" width="200px" />
+            <img src={user.url} height="100px" width="200px" alt="colored rectangle" />
           ))}
         </div>
         <div
