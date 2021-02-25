@@ -1,3 +1,6 @@
+# React-Infinite-Scroll
+Implementing infinte scroll for the first time: [https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs](https://www.pluralsight.com/guides/how-to-implement-infinite-scrolling-with-reactjs)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
