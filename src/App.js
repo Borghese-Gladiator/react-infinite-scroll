@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
-import LogRocketBlog from './components/LogRocketBlog';
-import ScrollComponent from './components/ScrollComponent';
-import InfiniteScroll from './components/InfiniteScroll';
+// import LogRocketBlog from './components/LogRocketBlog';
+// import ScrollComponent from './components/ScrollComponent';
+// import InfiniteScroll from './components/InfiniteScroll';
 import InfiniteImageScroll from './components/InfiniteImageScroll';
 
 function App() {
